@@ -1,10 +1,53 @@
-- 👋 Hi, I’m @Aizat200
-- 👀 I’m interested in cyber
-- 🌱 I’m currently learning to get in DW
-- 💞️ I’m looking to collaborate to sent the little virus
-- 📫 How to reach me just find me in server
+👋 Hi, I'm Amir Aizat
 
-<!---
-Aizat200/Aizat200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 💻 Software Engineering Student
+
+I am a Software Engineering student passionate about designing, developing, and improving software solutions. I enjoy learning new technologies, building innovative applications, and solving real-world problems through software development.
+
+👀 Interests
+
+* Software Engineering
+* Mobile Application Development
+* Web Development
+* UI/UX Design
+* Cybersecurity
+* Database Management
+
+ 🌱 Currently Learning
+
+* Android Development with Kotlin
+* Firebase Integration
+* Software Architecture
+* Cloud Computing
+* Agile Development Practices
+
+ 💞️ Looking to Collaborate On
+
+* Software Development Projects
+* Mobile Applications
+* Web Applications
+* Open Source Projects
+
+ 🛠️ Skills
+
+* Kotlin
+* Java
+* PHP
+* Python
+* HTML, CSS, JavaScript
+* MySQL
+* Firebase
+* Git & GitHub
+
+ 🚀 Featured Projects
+
+* PC System Retrieval Tool (PSRT)
+* Parking Registration System
+* EcoEducation Mobile Application
+* E-Commerce Web Application
+
+ 📫 Contact Me
+
+* GitHub: @Aizat200
+
+> "Turning ideas into software solutions, one project at a time."
