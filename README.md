@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Amir Aizat 👋</h1>
 
-<p align="center">
-  <img src="amir.jpg" width="150" style="border-radius: 50%;" alt="Amir Aizat" />
-</p>
 
 <h3 align="center">💻 Software Engineering Student | Mobile & Web Developer | Aspiring Cybersecurity Enthusiast</h3>
 
@@ -81,7 +78,6 @@ I'm Amir 'Aizat Bin Harith, a first-year Software Engineering student at **Unive
 | Project | Description |
 |---|---|
 | 🌍 **[EcoEducation](https://github.com/Aizat200)** | An eco-education Android app built with Kotlin & Jetpack Compose, featuring Room for local storage, Firebase Firestore for cloud sync, OSM-based interactive maps of Malaysia's renewable energy sites, and a gamified leaderboard. |
-| 🥗 **SwiftBite** | A food nutrition app that searches real-world food data via Retrofit and the OpenFoodFacts API, helping users track and understand what they eat. |
 | 🖥️ **PC System Retrieval Tool (PSRT)** | A tool for retrieving and managing PC system information/inventory. |
 | 🅿️ **Parking Registration System** | A system for managing vehicle parking registration and records. |
 | 🛒 **E-Commerce Web Application** | A full web application for online buying and selling, covering product listings, carts, and transactions. |
