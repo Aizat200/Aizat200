@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Amir Aizat 👋</h1>
 
+<p align="center">
+  <img src="profile.jpg" width="150" style="border-radius: 50%;" alt="Amir Aizat" />
+</p>
 
 <h3 align="center">💻 Software Engineering Student | Mobile & Web Developer | Aspiring Cybersecurity Enthusiast</h3>
 
@@ -108,6 +111,9 @@ I'm Amir 'Aizat Bin Harith, a first-year Software Engineering student at **Unive
   </a>
   <a href="https://www.linkedin.com/in/amir-aizat-bin-harith-0102332b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://aizat200.github.io/E-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2EA8FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:amir.aizat@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
