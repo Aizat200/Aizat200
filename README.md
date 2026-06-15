@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Amir Aizat 👋</h1>
 
+<p align="center">
+  <img src="profile.jpg" width="150" style="border-radius: 50%;" alt="Amir Aizat" />
+</p>
+
 <h3 align="center">💻 Software Engineering Student | Mobile & Web Developer | Aspiring Cybersecurity Enthusiast</h3>
 
 <p align="center">
@@ -16,11 +20,14 @@
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineering student passionate about designing, developing, and improving software solutions. I love learning new technologies, building innovative applications, and solving real-world problems through code.
+I'm Amir 'Aizat Bin Harith, a first-year Software Engineering student at **Universiti Kebangsaan Malaysia (UKM)**. I'm deeply passionate about technology, constantly exploring new tools, frameworks, and emerging innovations — and committed to growing into a versatile, well-rounded software engineer.
 
 - 🔭 Currently building **mobile and web applications** with a focus on clean architecture and great UX
 - 🌱 Learning **Android development with Kotlin**, **Firebase**, **software architecture**, and **cloud computing**
 - 💞️ Open to collaborating on **software development**, **mobile apps**, **web apps**, and **open source projects**
+- 🟢 Open for freelance, part-time & full-time opportunities
+- 🌐 Languages: Malay (Native), English (Fluent)
+- 📍 Based in Malaysia (GMT+8)
 - ⚡ Fun fact: I enjoy turning rough ideas into working prototypes — fast
 
 ---
@@ -28,7 +35,7 @@ I'm a Software Engineering student passionate about designing, developing, and i
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,php,python,html,css,js,mysql,firebase,git,github,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,php,python,html,css,js,react,nextjs,nodejs,mysql,mongodb,firebase,tailwind,git,github,androidstudio,figma" />
 </p>
 
 <details>
@@ -41,10 +48,14 @@ I'm a Software Engineering student passionate about designing, developing, and i
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Web**
+**Web & Frameworks**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Mobile**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -52,11 +63,14 @@ I'm a Software Engineering student passionate about designing, developing, and i
 
 **Database & Backend**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**Tools**
+**Tools & Practices**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![WCAG](https://img.shields.io/badge/Accessibility%20(WCAG)-9C27B0?style=flat&logo=accessibility&logoColor=white)
 
 </details>
 
@@ -67,6 +81,7 @@ I'm a Software Engineering student passionate about designing, developing, and i
 | Project | Description |
 |---|---|
 | 🌍 **[EcoEducation](https://github.com/Aizat200)** | An eco-education Android app built with Kotlin & Jetpack Compose, featuring Room for local storage, Firebase Firestore for cloud sync, OSM-based interactive maps of Malaysia's renewable energy sites, and a gamified leaderboard. |
+| 🥗 **SwiftBite** | A food nutrition app that searches real-world food data via Retrofit and the OpenFoodFacts API, helping users track and understand what they eat. |
 | 🖥️ **PC System Retrieval Tool (PSRT)** | A tool for retrieving and managing PC system information/inventory. |
 | 🅿️ **Parking Registration System** | A system for managing vehicle parking registration and records. |
 | 🛒 **E-Commerce Web Application** | A full web application for online buying and selling, covering product listings, carts, and transactions. |
@@ -97,6 +112,9 @@ I'm a Software Engineering student passionate about designing, developing, and i
   </a>
   <a href="https://www.linkedin.com/in/amir-aizat-bin-harith-0102332b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amir.aizat@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
