@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Amir Aizat 👋</h1>
 
 <p align="center">
-  <img src="profile.jpg" width="150" style="border-radius: 50%;" alt="Amir Aizat" />
+  <img src="amir.jpg" width="150" style="border-radius: 50%;" alt="Amir Aizat" />
 </p>
 
 <h3 align="center">💻 Software Engineering Student | Mobile & Web Developer | Aspiring Cybersecurity Enthusiast</h3>
